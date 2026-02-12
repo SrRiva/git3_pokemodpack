@@ -1,0 +1,41 @@
+
+["Player Names"]
+	Name1 = ""
+	Name2 = ""
+	Name3 = ""
+	Name4 = ""
+	Name5 = ""
+	Name6 = ""
+	Name7 = ""
+	Name8 = ""
+	Name9 = ""
+	Name10 = ""
+	Name11 = ""
+	Name12 = ""
+	Name13 = ""
+	Name14 = ""
+	Name15 = ""
+	Name16 = ""
+	Name17 = ""
+	Name18 = ""
+	Name19 = ""
+	Name20 = ""
+
+[List]
+	#Whether the name list will be used or not
+	AllowListUse = false
+	#Whether the name list is the only list that should be used or not
+	OnlyUseList = false
+
+[Spawns]
+	#If the white eyes should spawn
+	SpawnWhiteEyes = true
+	#The timer before a ghost spawns in ticks (default = 1200)
+	GhostSpawnTimer = 1200.0
+	#If empty steve/alex should spawn naturally
+	SpawnEmptyPlayer = true
+	#The chance of an empty player spawning (default = 0.4) [chance in % divided by 100]
+	EmptyPlayerChance = 0.4
+	#If empty players should be able to spawn on the surface
+	EmptyPlayerCanSpawnSurface = false
+

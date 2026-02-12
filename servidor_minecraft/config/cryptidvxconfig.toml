@@ -1,0 +1,21 @@
+
+["Cryptid Configuration"]
+	#a random number is generated between min and max for the spawn time, the spawn numbers are in seconds so set how many seconds you want it to take for him to spawn on min and max, WARNING do not make max time lower than min time otherwise it will cause bugs or crash the game
+	"Cryptid Spawntime Min" = 60.0
+	#a random number is generated between min and max for the spawn time, the spawn numbers are in seconds so set how many seconds you want it to take for him to spawn on min and max, WARNING do not make max time lower than min time otherwise it will cause bugs or crash the game
+	"Cryptid Spawntime Max" = 240.0
+	#if you want a higher chance of the cryptid spawning set the spawn chance to a lower number, if you want a lower chance for the cryptid to spawn set the spawn chance to a higher number, WARNING do not set this number below 1 otherwise it may bug or crash the game
+	"Cryptid Spawn Chance" = 2.0
+	"Cryptid Chase Music" = true
+	"Regenerate Blocks If Broken By Cryptid" = false
+	#a random number is generated between min and max for the chase time, the chase numbers are in minutes and a bit over so like 1:15 so set how many minutes you want it to take for him to disappear on min and max, WARNING do not make max time lower than min time otherwise it will cause bugs or crash the game
+	"Cryptid Chase Time Min" = 1.0
+	#a random number is generated between min and max for the chase time, the chase numbers are in minutes and a bit over so like 1:15 so set how many minutes you want it to take for him to disappear on min and max, WARNING do not make max time lower than min time otherwise it will cause bugs or crash the game
+	"Cryptid Chase Time Max" = 2.0
+	#If true, a vignette will slowly fade in the closer the cryptid is while chasing the player
+	"Cryptid Chase Vignette" = true
+	"Alternate Chase Theme" = false
+	"Don't Spawn Cryptid On First Day" = false
+	#a random number is generated between 20 and the set config number for the spawn distance, spawn distance is in blocks so 100 would be 100 blocks away etc, WARNING do not set spawn distance below 20 otherwise it will cause bugs or crash the game
+	"Cryptid Max Spawn Distance" = 100.0
+

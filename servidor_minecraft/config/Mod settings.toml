@@ -1,0 +1,59 @@
+
+["World settings"]
+	#Do you want the game to crash?
+	"Game Crashes" = true
+	#Rebalances the game if you have The Broken Script installed
+	"TBS Mode" = false
+	#This is a challenge for the best of the best. Makes changes to all entities to make them 10 times harder. (WARNING: This will turn on or off other config options when turned on even if it may not look like it)
+	Hardmode = false
+	#This will disable random structures from appearing
+	"Disable Random Structures" = false
+	#Toggling this will make events that are classified as big will happen much faster
+	"More Big Events" = false
+	#Do you want the entities to break blocks?
+	Destruction = true
+	#Increases the chase length from 30 seconds to 1 minute. Also lets you hear the full chase theme of the entity.
+	"Increase Chase Length" = false
+	#Do you want Nothing_left to talk? (If you turn this off, your a psychopath)
+	"Toggle Nothing_left" = true
+	#Do you want the Void Corruption to spread through out the world?
+	Corruption = true
+	#This is how often the event timer can randomly get boosted. Default is 3/10000 every tick (20 ticks per a second)
+	"Event Boost Frequency" = 3.0E-4
+	#This world will become more and more corrupted overtime. Turning this on, will make the no_texture entities not appear. (This is not the same as Destruction)
+	"World Stabilizer" = false
+	#If you don't want the moons texture to change, then toggle this off
+	"Change Moon" = true
+	#If you don't want the suns texture to change, then toggle this off
+	"Change Sun" = true
+	#The avarage amount of random events that will happen each day
+	"Avarage Amount Of Events Per A Day" = 7.0
+	#If you want to stay in they're world for a long time, then turn this on
+	"Slowpoke Mode" = false
+
+["Player settings"]
+	#Do you want the game to ban you from your world? (THIS ONLY HAPPENS IF YOUR DOING SOMETHING VERY SECRETIVE)
+	Banning = true
+	#This will make less particles. Which because means less lag
+	"Low Performance" = false
+
+["Entity settings"]
+	#You can put most entities in boats
+	Boating = false
+	#Do you want fire to spawn randomly? (This will happen later on)
+	"FIRE!" = true
+	#Force the chunk that an entity is in, to stay loaded. (Recommend you have this turned on if you don't want entities to break)
+	"Force Load Entity Chunks" = true
+	#Multiple entities can hunt at once. (THIS OPTION IS EXPERIMENTAL) This will definitely bug out, but it's just there for fun
+	"MORE HUNTS" = false
+
+["Live reaction"]
+	#Shows the most epic reaction from Nothing_left when you do things
+	"Live Reaction" = false
+
+["Event settings"]
+	#Do you want random chaotic nights?
+	"Chaotic Nights" = true
+	#The chance of a chaotic night falling upon you
+	"Chaotic Night Chance" = 5.0
+
